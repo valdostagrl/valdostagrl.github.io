@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&display=swap');
+
+body {
+  color: black;
+  background-color: #cce6ff;
+  font-weight: normal;
+  font-size: 30px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;}
+  
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+  h1  {
+    text-align: center;
+    font-size: 90
+    font-family: 'Shadows Into Light', cursive;
+    color: #00004d
+
+  }
